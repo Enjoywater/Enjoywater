@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://img.shields.io/badge/ENJOY-WATER-blue?style=for-the-badge)
+![Generic badge](https://img.shields.io/badge/ENJOY-WATER-blue?style=for-the-badge)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enjoywater&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
