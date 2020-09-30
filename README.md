@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram&labelColor=white)](https://instagram.com/enjoy_water/) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:heungsoo1@gmail.com?Subject=Hello%20world!)
+[![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram&labelColor=white)](https://instagram.com/enjoy_water/) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:heungsoo1@gmail.com?Subject=Hello%20world!) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=About.me&labelColor=white)](https://velog.io/@enjoywater)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enjoywater&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
