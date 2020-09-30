@@ -1,3 +1,4 @@
+## Hi there 👋🏻
 <!--
 **Enjoywater/Enjoywater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,10 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Generic badge](https://img.shields.io/badge/Enjoy-white?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Water-white?style=for-the-badge&)
-
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enjoywater&layout=compact&theme=buefy&hide_border=true)  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enjoywater&theme=buefy&show_icons=true&hide_title=true&hide=issues&hide_border=true) 
 
