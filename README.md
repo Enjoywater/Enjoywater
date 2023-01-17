@@ -8,7 +8,7 @@
 - [Notion Portfolio](https://www.notion.so/afe1f9253c654423a4f9c855e2281c61)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enjoywater&layout=compact&theme=buefy&hide_border=true)  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Enjoywater&theme=buefy&show_icons=true&hide_title=true&hide=issues&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enjoywater&layout=compact&theme=buefy&hide_border=true)
 
 
 <!--
