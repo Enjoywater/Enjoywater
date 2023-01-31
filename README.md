@@ -4,9 +4,9 @@
 
 [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=About.me&labelColor=white)](https://velog.io/@enjoywater) [![Generic badge](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&labelColor=white)](mailto:heungsoo1@gmail.com?Subject=Hello%20world!) 
 
-<!--
-- [Notion Portfolio](https://www.notion.so/afe1f9253c654423a4f9c855e2281c61)
--->
+
+- [Portfolio](https://enjoywater.oopy.io/)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enjoywater&layout=compact&theme=buefy&hide_border=true)
 
