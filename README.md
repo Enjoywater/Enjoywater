@@ -6,7 +6,7 @@
 
 
 - [Portfolio](https://enjoywater.oopy.io/)
-
+- [Blog](https://enjoywater.tistory.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enjoywater&layout=compact&theme=buefy&hide_border=true)
 
